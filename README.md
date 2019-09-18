@@ -1,3 +1,4 @@
+TEST
 # Flask-CDN
 
 [![Version](https://img.shields.io/pypi/v/flask-cdn.svg)](https://pypi.python.org/pypi/Flask-CDN)
